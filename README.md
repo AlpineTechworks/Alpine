@@ -1,5 +1,5 @@
 <h1 align="center">
 <img src="img.png">
 
-alpinecore
+alpine
 </h1>
